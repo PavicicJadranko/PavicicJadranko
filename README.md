@@ -14,6 +14,7 @@ I am a bachelor's degree holder in Economics, and I am 30 years old. For the pas
   - `numpy` - for working with large, multi-dimensional arrays and matrices
   - `matplotlib` - for data visualization
   - `TensorFlow` - for machine learning and deep learning
+  - `scikit-learn` - for machine learning
 
 ### Web Development
 
