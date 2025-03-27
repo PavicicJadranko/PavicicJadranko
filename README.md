@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a bachelor's degree holder in Economics, and I am 30 years old. For the past year, I have been passionately programming in Python and continuously striving to acquire new knowledge and skills. My goal is to become an excellent Data Scientist and advance in this exciting field.
+I am a bachelor's degree holder in Economics, and I am 31 years old. For the past year, I have been passionately programming in Python and continuously striving to acquire new knowledge and skills. My goal is to become an excellent Data Scientist and advance in this exciting field.
 
 ## My Skills
 
